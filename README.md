@@ -1,4 +1,18 @@
-# Hosting a Full-Stack Application
+# Hosting a Full-Stack Application on AWS
+
+## Overview
+This repository contains a full-stack web application hosted on AWS, configured with automated CI/CD pipelines.
+
+- [Dependencies](#dependencies)
+- [Infrastructure](#infrastructure)
+- [CI/CD Pipeline](#pipeline)
+
+## Tech Stack & Architecture
+* **Frontend & Backend:** Node.js, Express, TypeScript (Udagram app)
+* **Hosting:** AWS Elastic Beanstalk
+* **Database:** AWS RDS (PostgreSQL)
+* **Storage:** AWS S3 Bucket
+* **CI/CD:** CircleCI
 
 # Overview :
 - [dependinces](docs/dependinces.md.md)  
