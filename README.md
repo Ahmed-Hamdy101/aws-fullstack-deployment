@@ -14,11 +14,6 @@ This repository contains a full-stack web application hosted on AWS, configured 
 * **Storage:** AWS S3 Bucket
 * **CI/CD:** CircleCI
 
-# Overview :
-- [dependinces](docs/dependinces.md.md)  
-- [Infstructure](docs/Infstructure.md)
-- [pipeline](docs/.pipeline.md)
-
 
 # Structure :
 -  pipline :
